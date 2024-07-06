@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tolymnis.github.io/sitemap
+Sitemap: https://tolymnis.github.io/app/sitemap
+Sitemap: https://tolymnis.github.io/assets/sitemap
+Sitemap: https://tolymnis.github.io/css/sitemap
+Sitemap: https://tolymnis.github.io/includes/sitemap
+Sitemap: https://tolymnis.github.io/item/sitemap
+Sitemap: https://tolymnis.github.io/src/sitemap
